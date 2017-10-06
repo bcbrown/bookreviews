@@ -64,7 +64,7 @@ Dense and enigmatic, although I understood less than a tenth of what Wittgenstei
 
 >"The limits of my language mean the limits of my world." P88
 
->"If by eternity it is understood no endless temporal duration but timelessness, then he lives eternally who lives in the present." P106
+>"If by eternity it is understood not endless temporal duration but timelessness, then he lives eternally who lives in the present." P106
 
 ### Tyranny of Words
 An interesting book from the 30s, it is written as a sort of layman's exposition of the ideas expressed by Korzybski, Ogden, and Richards. A better, more modern treatment is Language in Thought and Action, listed first.
