@@ -1,9 +1,10 @@
 # Short reviews of the books I've read in 2017
 
 ### Theory of Semiotics, Umberto Eco
-Probably the densest book I've ever read.
+Probably the densest book I've ever read. And I've read a book by a
+philosopher explaining time travel to physicists.
 
-### Trout Fishin in America, Richard Brautigan
+### Trout Fishing in America, Richard Brautigan
 
 ### The City and the City
 One of the more thought-provoking novels I've read lately, it made me think
@@ -14,7 +15,7 @@ Not much new, but a very good overview of good practices in Python for
 intermediate programmers looking to get started with more advanced techniques.
 
 ### The Sun Also Rises, Hemingway
-It took some time to get going, but by the end it wsa captivating.
+It took some time to get going, but by the end it was captivating.
 
 ### Inimitable Jeeves
 ### Very Good, Jeeves
@@ -26,17 +27,17 @@ Wooster, and his butler, Jeeves. They're perfect before-bed reading.
 
 ### General Systems Thinking
 A more rigorous treatment of the same subject as The Systems Bible, this is
-a book to which I expect I'll often reread.
+a book to which I expect I'll often return.
 
 ### Confederacy of Dunces
 Several people to whom I've talked about this book found it revolting when
 they tried reading it. I found it a highly enjoyable tale about wholly
-unlikeable characters.
+unlikeable characters, but can understand why someone might viscerally dislike it.
 
 ### Too Like the Lightning
 ### Seven Surrenders
 Too Like the Lightning is an engaging sci-fi novel, mixed with Enlightment
-philosophy and some fantasy. I read both and it's sequel, Seven Surrenders,
+philosophy and some fantasy. I read both it and its sequel, Seven Surrenders,
 over separate 24-hour periods. The sequel isn't quite as good, but still
 worthwhile.
 
@@ -171,6 +172,12 @@ A seminar in a book, the questions at the end of each chapter are almost
 as valuable as the rest of the book combined. I can recommend this book
 to anyone looking to increase their technical mastery of a skill, from
 software development to logging to knitting.
+
+### Deaths End
+The finale to the trilogy started by Three Body Problem. It starts very
+strong, but somewhat peters out, which is a shame because the scope and
+scale of the book keep increasing into the vastness of possibilities of
+the universe.
 
 ### Behind Closed Doors
 Worth reading, but not highly recommended, a book on technical management
