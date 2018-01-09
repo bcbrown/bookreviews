@@ -1,18 +1,70 @@
 # Short reviews of the books I've read in 2017
 
 ### Theory of Semiotics, Umberto Eco
-Probably the densest book I've ever read. And I've read a book by a
-philosopher explaining time travel to physicists.
+Probably the densest book I've ever read, and I've read some pretty heavy tomes.
+Covering every channel of communication possible, Eco defines the domain of
+Semiotics as "studying everything which can be used in order to lie."
 
-### Trout Fishing in America, Richard Brautigan
+> I propose to define as a sign, _everything_ that, on the grounds of a
+previously established social convention, can be taken as _something standing
+for something else._
+
+The book starts by considering a simple system; there's a dam, with water
+behind it, and a control station some distance away. There's a buoy in the
+reservoir, which sends a signal causing a red light to be illuminated
+when the water level reaches some threshold, and signals the dam operator 
+to increase the volume of outflow. Then, to provide some redundancy and
+error correction, first two, and then four lights (called A, B, C, and D)
+are employed, such that AB is "danger level", BD is "alarm", CD is the
+"rest state, no action necessary", and DA is "low water level".
+
+After setting up this scenario, Eco provides four separate systems for
+analysing the lights:
+- A set of signals ruled by internal combinatory laws (syntactics). This is
+solely concerned with what combinations of lights is possible, not about what they _mean_.
+- A set of states of the water which can become a set of communicative contents (semantics).
+This is independent of what system is used to communicate the information.
+- A set of possible behavioral responses. "Communicationally speaking the 
+responses are proofs that the message has been correctly received."
+- A rule coupling some items from the first with the second or third system.
+This is what he terms a code.
+
+### Trout Fishing in America
+Richard Brautigan is one of the most important literary influences in
+my life. He is one of the few authors to whom I turn when I can't sleep, or I
+when I'm looking for something to read for a half hour in the hammock. It's
+always worthwhile to reread something of his.
+
+Trout Fishing is a series of
+vignettes and meditations, all somewhat loosely connected with trout fishing,
+but only loosely. As a blurb on the back cover says, "Reading _Trout Fishing
+in America_ won't help you catch more fish, but it does have something to do
+with trout fishing." 
+
+> He wore a costume of Trout Fishing in America. He wore mountains on his
+elbows and bluejays on the collar of his shirt. Deep water flowed through the
+lilies that were entwined about his shoelaces. A bullfrog kept croaking in his
+watch pocket and the air was filled with the sweet smell of ripe blackberry
+bushes.
+
+### Watermelon Sugar
+Also by Richard Brautigan, this is a poetic novella about a land where things
+arew made from watermelon sugar. It's very hard to describe, so I'll just say
+that Brautigan marries a poetical aesthetic with deadpan comedy in absurdity.
 
 ### The City and the City
 One of the more thought-provoking novels I've read lately, it made me think
-about what it means to see and not see in urban living.
+about what it means to see and not see one's surroundings in urban living. It's
+a murder mystery in a world of two cities, physically superimposed on each other,
+but requiring a trip through Customs to pass from one to the other. When someone
+asks me what the best book I read in 2017 was, this is often my answer. 
+Somewhere between magical realism, science fiction, and social critique.
 
 ### Effective Python
 Not much new, but a very good overview of good practices in Python for 
 intermediate programmers looking to get started with more advanced techniques.
+If you use Python at work and don't know what a "dunder method" is, I
+highly recommend reading this.
 
 ### The Sun Also Rises, Hemingway
 It took some time to get going, but by the end it was captivating.
@@ -42,7 +94,7 @@ over separate 24-hour periods. The sequel isn't quite as good, but still
 worthwhile.
 
 ### A Personal Anthology, Borges
-Deeply weird and though-provoking short stories, plus short essays and poems,
+Deeply weird and thought-provoking short stories, plus short essays and poems,
 this collection was chosen by Jorge Luis Borges as the works he wanted his
 legacy judged by. This was perfectly suited to be read on the bus on the way
 to and from work.
@@ -57,6 +109,7 @@ must cut your shadow off and leave it outside.
 I had read most of this a couple years ago, and picked it up and finished
 it this year. A series of short essays on nature, spurred by repeated
 visits to the same one-foot circle of forest in Tennessee, by a biologist.
+Anyone who loves nature and natural history will enjoy this book.
 
 ### Proust and the Squid
 A book on the neurology of reading, as well as an exploration of dyslexia,
@@ -64,22 +117,26 @@ of which I have a variant. I found it quite interesting.
 
 ### Dark Forest
 The sequel to the Three Body Problem, I found it almost as good, and I'm looking
-forward to the third.
+forward to the third. What I liked most about this book, beyond the excellent
+action sequences, was the highly original theories on how alien species
+might interact in a crowded universe.
+
+### Deaths End
+The finale to the trilogy started by Three Body Problem. It starts very
+strong, but somewhat peters out, which is a shame because the scope and
+scale of the book keep increasing into the vastness of possibilities of
+the universe. I don't think I've read a sci-fi book with a grander scope.
 
 ### Merchant of Venice
-I forgot just how anti-semitic this play was.
+I forgot just how anti-semitic this play was. Still an enjoyable comedy,
+but wow, times have certainly changed since Shakespeare's era.
 
 ### The Tempest
 I remember this being my favorite play by Shakespeare when I was in high school,
 and this rereading didn't disappoint.
 
 ### King Lear
-
-### Watermelon Sugar
-Richard Brautigan is one of the several most important literary influences in
-my life. He is one of the few authors to whom I turn when I can't sleep, or I
-when I'm looking for something to read for a half hour in the hammock. It's
-always worthwhile to reread something of his.
+A timeless tale of pride and pathos
 
 ### For Whome The Bell Tolls
 My favorite book by Hemingway. The denouement at the canyon bridge is one of
@@ -98,8 +155,7 @@ This book is likely most interesting to people who are: inclined towards eastern
 mysticism, the poetic aesthics of the Romantics and pastoral poets, and
 tea drinkers.
 
-Quote:
-Meanwhile, let us have a sip of tea. The afternoon glow is brightening the 
+> Meanwhile, let us have a sip of tea. The afternoon glow is brightening the 
 bamboos, the fountains are bubbling with delight, the soughing of the pines is
 heard in our kettle. Let us dream of evanescence, and linger in the beautiful
 foolishness of things.
@@ -109,7 +165,7 @@ I had a close friend move to Berlin this year; we had hoped to have a final
 get-together, but never did. I happened to be at the airport, on my way to
 San Francisco, when I saw him ahead of me in the security line. We got to
 have a beer in the airport before our flights, and sharing my interests in
-this sort of book, he gave me `I Am a Strange Loop`, which he had just finished.
+this sort of book, he gave me I Am a Strange Loop, which he had just finished.
 
 I'm a total sucker for that sort of happy happenstance, and it made an already
 great book even better. This is a book for the people who think it's really
@@ -149,9 +205,17 @@ just one year before all life on Earth will be destroyed by meteorites
 (loose paraphrase).
 
 ### Modern China
+Last year I read The Three Body Problem, a science fiction book that starts
+during the Cultural Revolution, and mentioned I wanted to learn more about
+Chinese history. A coworker recommended and loaned this book, which was an
+excellent overview of the past few centuries. Highly readable with an excellent
+sense of narrative, it was exactly what I was looking for.
 
 ### Andy Grove Bio
-Not as good as High Output Managment
+Upon reading the news of his death, I picked up this biography, hoping to learn
+some lessons from one of the 20th century most accomplished technologists.
+Although well written, I found High Output Management, written by Andy Grove
+himself, far more suited to my aims. 
 
 ### Exercises in Style, Raymond Queaneau
 Goofy little book of wordplay. The same little scenario played out in many
@@ -159,7 +223,11 @@ different styles. Translated from the French, which must have been a
 creative feat in itself.
 
 ### Iliad
-Amazingly bloody. Almost war-porn, but incredibly poetically written.
+The Iliad covers the siege of Troy, and comes before the Odyssey. Amazingly 
+bloody, but very well written and translated. When I first began reading,
+I wondered why I had read the Odyssey in high school, but not the Iliad.
+Pretty quickly, the sheer quantity of blood, gore and death made the answer
+obvious.
 
 ### Witt Bio
 Gave a great view into the man behind the philosophy. I first read
@@ -170,23 +238,20 @@ skippable.
 ### Technical Leadership
 A seminar in a book, the questions at the end of each chapter are almost
 as valuable as the rest of the book combined. I can recommend this book
-to anyone looking to increase their technical mastery of a skill, from
+to anyone looking to increase their technical mastery of almost any skill, from
 software development to logging to knitting.
-
-### Deaths End
-The finale to the trilogy started by Three Body Problem. It starts very
-strong, but somewhat peters out, which is a shame because the scope and
-scale of the book keep increasing into the vastness of possibilities of
-the universe.
 
 ### Behind Closed Doors
 Worth reading, but not highly recommended, a book on technical management
-of software developers.
+of software development.
 
 ### MySQL Stored Programs
 You should only read this book if you already know you need to. It was very
 helpful for rapidly getting me up to speed in a new job that makes heavy use
-of stored procedures in MySQL. It's also 10 years old.
+of stored procedures in MySQL. It's also 10 years old. If your knowledge of
+SQL is limited to writing straightfoward queries of existing tables, this
+may be a good next step towards building architectures making heavy use of
+SQL databases.
 
 ### Stiff Upper Lip, Jeeves
 I'll be very sad the day I've finished everything written by P.G. Wodehouse.
