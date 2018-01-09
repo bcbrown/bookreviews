@@ -202,8 +202,9 @@ proposes a definition of mind, and provides a perspective of nature that
 satisfies that definition. It provides both a theory of mind, and a theory of
 evolution, that consists of loops across two different levels of abstraction.
 
-If you've ever been intrigued by cybernetics, this would be a good book to
-check out.
+His training was in biology, linguistics and anthropology, but his studies
+eventually included psychology, systems theory and cybernetics. If you've ever
+been intrigued by cybernetics, this would be a good book to check out.
 
 > A man wanted to know about mind, not in nature, but in his private large computer. He asked it (no doubt in his best Fortran), "Do you compute that you will ever think like a human being?" The machine then set to work to analyze its own computational habits. Finally, the machine printed its answer on a piece of paper, as such machines do. The man ran to get the answer and found, neatly typed, the words:
 >        THAT REMINDS ME OF A STORY
