@@ -50,7 +50,7 @@ bushes.
 ### Watermelon Sugar
 Also by Richard Brautigan, this is a poetic novella about a land where things
 arew made from watermelon sugar. It's very hard to describe, so I'll just say
-that Brautigan marries a poetical aesthetic with deadpan comedy in absurdity.
+that Brautigan marries a poetic aesthetic with deadpan comedy in absurdity.
 
 ### The City and the City
 One of the more thought-provoking novels I've read lately, it made me think
@@ -79,7 +79,14 @@ Wooster, and his butler, Jeeves. They're perfect before-bed reading.
 
 ### General Systems Thinking
 A more rigorous treatment of the same subject as The Systems Bible, this is
-a book to which I expect I'll often return.
+a book to which I expect I'll often return. Highly recommended for anyone
+with an interest in the scientific method.
+
+> In just the first few moments of thumbing through its pages, I could see
+that this was an attempt to step away from the entire range of scientific
+and technological endeavors and ask, “What’s going on here?”
+From http://neglectedbooks.com/?p=173, which I found while searching for
+reviews of this book, and just may be my favorite new website.
 
 ### Confederacy of Dunces
 Several people to whom I've talked about this book found it revolting when
@@ -202,7 +209,9 @@ For Neal Stephenson's entire career, he's been in need of a good editor. He's
 great at setting up a novel, but just can't bring himself to end them. This is
 a fantastic, action-packed imagination of what might happen if humanity has
 just one year before all life on Earth will be destroyed by meteorites
-(loose paraphrase).
+(loose paraphrase). Structurally, it consists of three separate acts: humanity's
+attempts to escape into space before the catastrophe; life in space; the return
+to earth. The first two acts are both excellent. The third is forgettable.
 
 ### Modern China
 Last year I read The Three Body Problem, a science fiction book that starts
@@ -229,7 +238,7 @@ I wondered why I had read the Odyssey in high school, but not the Iliad.
 Pretty quickly, the sheer quantity of blood, gore and death made the answer
 obvious.
 
-### Witt Bio
+### Wittgenstein Bio
 Gave a great view into the man behind the philosophy. I first read
 Tractatus, then this, and will next attempt Philosophical Investigations.
 I think that's a great way to order these, although Tractatus may be
