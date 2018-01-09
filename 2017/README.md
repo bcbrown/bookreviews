@@ -57,14 +57,14 @@ One of the more thought-provoking novels I've read lately, it made me think
 about what it means to see and not see one's surroundings in urban living. It's
 a murder mystery in a world of two cities, physically superimposed on each other,
 but requiring a trip through Customs to pass from one to the other. When someone
-asks me what the best book I read in 2017 was, this is often my answer. 
+asks me what was the best book I read in 2017, this is often my answer. 
 Somewhere between magical realism, science fiction, and social critique.
 
 ### Effective Python
 Not much new, but a very good overview of good practices in Python for 
 intermediate programmers looking to get started with more advanced techniques.
-If you use Python at work and don't know what a "dunder method" is, I
-highly recommend reading this.
+If you use Python at work, don't know what a "dunder method" is, and want to
+improve your Python knowledge, I highly recommend reading this.
 
 ### The Sun Also Rises, Ernest Hemingway
 It took some time to get going, but by the end it was captivating.
@@ -85,6 +85,7 @@ with an interest in the scientific method.
 > In just the first few moments of thumbing through its pages, I could see
 that this was an attempt to step away from the entire range of scientific
 and technological endeavors and ask, “What’s going on here?”
+
 From http://neglectedbooks.com/?p=173, which I found while searching for
 reviews of this book, and just may be my favorite new website.
 
@@ -96,7 +97,7 @@ unlikeable characters, but can understand why someone might viscerally dislike i
 ### Too Like the Lightning
 ### Seven Surrenders
 Too Like the Lightning is an engaging sci-fi novel, mixed with Enlightment
-philosophy and some fantasy. I read both it and its sequel, Seven Surrenders,
+philosophy and some fantasy. I binge-read both it and its sequel, Seven Surrenders,
 over separate 24-hour periods. The sequel isn't quite as good, but still
 worthwhile.
 
@@ -143,14 +144,14 @@ I remember this being my favorite play by Shakespeare when I was in high school,
 and this rereading didn't disappoint.
 
 ### King Lear
-A timeless tale of pride and pathos
+A timeless tale of pride and pathos.
 
-### For Whome The Bell Tolls
+### For Whom The Bell Tolls
 My favorite book by Hemingway. The denouement at the canyon bridge is one of
 the most tense, gripping scenes in anything I've read. What I like about this
 book is how most of the book is spent building up a variety of characters
 then shows the inevitable reactions when they're put into a series of 
-situations. The writing is very stripped down, but powerfully evocative.
+situations. The writing is stripped down but evocative.
 
 ### The Book Of Tea
 Some time back, someone important to me introduced me to the pleasures of tea,
@@ -159,7 +160,7 @@ by a Japanese intellectual for an American audience, discusses the history,
 rituals, and aesthetics of tea preparation.
 
 This book is likely most interesting to people who are: inclined towards eastern
-mysticism, the poetic aesthics of the Romantics and pastoral poets, and
+mysticism, the poetic aesthics of the Romantic and pastoral poets, and
 tea drinkers.
 
 > Meanwhile, let us have a sip of tea. The afternoon glow is brightening the 
@@ -170,8 +171,8 @@ foolishness of things.
 ### I Am A Strange Loop, Douglas Hofstadter
 I had a close friend move to Berlin this year; we had hoped to have a final
 get-together, but never did. I happened to be at the airport, on my way to
-San Francisco, when I saw him ahead of me in the security line. We got to
-have a beer in the airport before our flights, and sharing my interests in
+San Francisco, when I saw him ahead of me in the security line. We were able
+to spend an hour hanging out in the airport, and since he knew my interest in
 this sort of book, he gave me I Am a Strange Loop, which he had just finished.
 
 I'm a total sucker for that sort of happy happenstance, and it made an already
@@ -204,6 +205,12 @@ evolution, that consists of loops across two different levels of abstraction.
 If you've ever been intrigued by cybernetics, this would be a good book to
 check out.
 
+> A man wanted to know about mind, not in nature, but in his private large computer. He asked it (no doubt in his best Fortran), "Do you compute that you will ever think like a human being?" The machine then set to work to analyze its own computational habits. Finally, the machine printed its answer on a piece of paper, as such machines do. The man ran to get the answer and found, neatly typed, the words:
+>        THAT REMINDS ME OF A STORY
+
+> Prospero says, "We are such stuff as dreams are made on," and surely he is nearly right. It is as if the stuff of which we are made were totally transparent and therefore imperceptible and as if the onlly appearances of which we can be aware are cracks and planes of fracture in that transparent matrix. Dreams and percepts and stories are perhaps cracks and irregularities in the uniform and timeless matrix. Was this what Plotinus meant by an "invisible and unchanging beatury which pervades all things"?
+
+
 ### Seveneves
 For Neal Stephenson's entire career, he's been in need of a good editor. He's
 great at setting up a novel, but just can't bring himself to end them. This is
@@ -222,7 +229,7 @@ sense of narrative, it was exactly what I was looking for.
 
 ### Andy Grove: The Life and Times of an American
 Upon reading the news of his death, I picked up this biography, hoping to learn
-some lessons from one of the 20th century most accomplished technologists.
+some lessons from one of the 20th century's most accomplished technologists.
 Although well written, I found High Output Management, written by Andy Grove
 himself, far more suited to my aims. 
 
@@ -255,7 +262,7 @@ Worth reading, but not highly recommended, a book on technical management
 of software development.
 
 ### MySQL Stored Programs
-You should only read this book if you already know you need to. It was very
+You should only read this book if you already know you need it. It was very
 helpful for rapidly getting me up to speed in a new job that makes heavy use
 of stored procedures in MySQL. It's also 10 years old. If your knowledge of
 SQL is limited to writing straightfoward queries of existing tables, this
