@@ -52,7 +52,7 @@ Also by Richard Brautigan, this is a poetic novella about a land where things
 arew made from watermelon sugar. It's very hard to describe, so I'll just say
 that Brautigan marries a poetic aesthetic with deadpan comedy in absurdity.
 
-### The City and the City
+### The City and the City, China Miéville
 One of the more thought-provoking novels I've read lately, it made me think
 about what it means to see and not see one's surroundings in urban living. It's
 a murder mystery in a world of two cities, physically superimposed on each other,
@@ -66,7 +66,7 @@ intermediate programmers looking to get started with more advanced techniques.
 If you use Python at work and don't know what a "dunder method" is, I
 highly recommend reading this.
 
-### The Sun Also Rises, Hemingway
+### The Sun Also Rises, Ernest Hemingway
 It took some time to get going, but by the end it was captivating.
 
 ### Inimitable Jeeves
@@ -77,7 +77,7 @@ order any of his Jeeves novels right now. Set in England, they're entertaining
 farces about the life and exploits of a member of London's idle rich, Bertie
 Wooster, and his butler, Jeeves. They're perfect before-bed reading.
 
-### General Systems Thinking
+### General Systems Thinking, Gerald Weinberg
 A more rigorous treatment of the same subject as The Systems Bible, this is
 a book to which I expect I'll often return. Highly recommended for anyone
 with an interest in the scientific method.
@@ -167,7 +167,7 @@ bamboos, the fountains are bubbling with delight, the soughing of the pines is
 heard in our kettle. Let us dream of evanescence, and linger in the beautiful
 foolishness of things.
 
-### I Am A Strange Loop
+### I Am A Strange Loop, Douglas Hofstadter
 I had a close friend move to Berlin this year; we had hoped to have a final
 get-together, but never did. I happened to be at the airport, on my way to
 San Francisco, when I saw him ahead of me in the security line. We got to
@@ -220,7 +220,7 @@ Chinese history. A coworker recommended and loaned this book, which was an
 excellent overview of the past few centuries. Highly readable with an excellent
 sense of narrative, it was exactly what I was looking for.
 
-### Andy Grove Bio
+### Andy Grove: The Life and Times of an American
 Upon reading the news of his death, I picked up this biography, hoping to learn
 some lessons from one of the 20th century most accomplished technologists.
 Although well written, I found High Output Management, written by Andy Grove
@@ -238,13 +238,13 @@ I wondered why I had read the Odyssey in high school, but not the Iliad.
 Pretty quickly, the sheer quantity of blood, gore and death made the answer
 obvious.
 
-### Wittgenstein Bio
+### Ludwig Wittgenstein: The Duty of Genius
 Gave a great view into the man behind the philosophy. I first read
 Tractatus, then this, and will next attempt Philosophical Investigations.
 I think that's a great way to order these, although Tractatus may be
 skippable.
 
-### Technical Leadership
+### Technical Leadership, Gerald Weinberg
 A seminar in a book, the questions at the end of each chapter are almost
 as valuable as the rest of the book combined. I can recommend this book
 to anyone looking to increase their technical mastery of almost any skill, from
