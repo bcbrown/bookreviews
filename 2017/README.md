@@ -31,7 +31,7 @@ This is what he terms a code.
 
 ### Trout Fishing in America
 Richard Brautigan is one of the most important literary influences in
-my life. He is one of the few authors to whom I turn when I can't sleep, or I
+my life. He is one of the few authors to whom I turn when I can't sleep, or
 when I'm looking for something to read for a half hour in the hammock. It's
 always worthwhile to reread something of his.
 
@@ -67,15 +67,18 @@ If you use Python at work, don't know what a "dunder method" is, and want to
 improve your Python knowledge, I highly recommend reading this.
 
 ### The Sun Also Rises, Ernest Hemingway
-It took some time to get going, but by the end it was captivating.
+It took some time to get going, but by the end it was captivating. He slowly
+sets up his characters, provides some motivations and backstories, then
+the last half or third or so of the book is weaving all those characters
+into the climax, a sort of love triangle amongst British/American acquaintances
+at a Spanish bullfighting festival.
 
-### Inimitable Jeeves
-### Very Good, Jeeves
-### Right Ho, Jeeves!
+### Inimitable Jeeves; Very Good, Jeeves; Right Ho, Jeeves!
 If you've never read any P.G. Wodehouse, I highly encourage to go out and
-order any of his Jeeves novels right now. Set in England, they're entertaining
+order any of his Jeeves novels right now. Set in 19th-century England, they're entertaining
 farces about the life and exploits of a member of London's idle rich, Bertie
-Wooster, and his butler, Jeeves. They're perfect before-bed reading.
+Wooster, and his butler, Jeeves. They're perfect before-bed reading, since each
+chapter is a self-contained episode, much like a sitcom.
 
 ### General Systems Thinking, Gerald Weinberg
 A more rigorous treatment of the same subject as The Systems Bible, this is
@@ -94,8 +97,7 @@ Several people to whom I've talked about this book found it revolting when
 they tried reading it. I found it a highly enjoyable tale about wholly
 unlikeable characters, but can understand why someone might viscerally dislike it.
 
-### Too Like the Lightning
-### Seven Surrenders
+### Too Like the Lightning; Seven Surrenders
 Too Like the Lightning is an engaging sci-fi novel, mixed with Enlightment
 philosophy and some fantasy. I binge-read both it and its sequel, Seven Surrenders,
 over separate 24-hour periods. The sequel isn't quite as good, but still
@@ -103,20 +105,24 @@ worthwhile.
 
 ### A Personal Anthology, Borges
 Deeply weird and thought-provoking short stories, plus short essays and poems,
-this collection was chosen by Jorge Luis Borges as the works he wanted his
-legacy judged by. This was perfectly suited to be read on the bus on the way
+this collection was chosen by Jorge Luis Borges as the works by which he wanted his
+legacy. This was perfectly suited to be read on the bus on the way
 to and from work.
 
-### Hard-boiled Wonderland
-Highly enjoyable and deeply original. There's two separate storylines that
+### Hard-Boiled Wonderland and the End of the World
+Highly enjoyable and deeply imaginative. There's two separate storylines that
 eventually join together; in one of them, there's a single small town,
 alone and surrounded by wilderness, where in order to enter, the gatekeeper
-must cut your shadow off and leave it outside.
+must cut your shadow off and leave it outside. Outside this town is a herd
+of unicorns. The other storyline is set in contemporary Tokyo, and to quote 
+from Wikipedia, "The two storylines converge, exploring concepts of consciousness, 
+the subconscious or unconscious mind, and identity."
 
 ### Forest Unseen
 I had read most of this a couple years ago, and picked it up and finished
 it this year. A series of short essays on nature, spurred by repeated
 visits to the same one-foot circle of forest in Tennessee, by a biologist.
+The author uses each trip as a trigger for an essay on some aspect of nature.
 Anyone who loves nature and natural history will enjoy this book.
 
 ### Proust and the Squid
@@ -125,7 +131,7 @@ of which I have a variant. I found it quite interesting.
 
 ### Dark Forest
 The sequel to the Three Body Problem, I found it almost as good, and I'm looking
-forward to the third. What I liked most about this book, beyond the excellent
+forward to the third in the trilogy. What I liked most about this book, beyond the excellent
 action sequences, was the highly original theories on how alien species
 might interact in a crowded universe.
 
@@ -144,6 +150,7 @@ I remember this being my favorite play by Shakespeare when I was in high school,
 and this rereading didn't disappoint.
 
 ### King Lear
+This was the first time I've read this play, and I found it worth my while.
 A timeless tale of pride and pathos.
 
 ### For Whom The Bell Tolls
@@ -151,17 +158,18 @@ My favorite book by Hemingway. The denouement at the canyon bridge is one of
 the most tense, gripping scenes in anything I've read. What I like about this
 book is how most of the book is spent building up a variety of characters
 then shows the inevitable reactions when they're put into a series of 
-situations. The writing is stripped down but evocative.
+situations. The writing is stripped down and powerful, and the finale
+ranks amongst the most evocative fiction I've read.
 
 ### The Book Of Tea
-Some time back, someone important to me introduced me to the pleasures of tea,
-especially the variety of loose leaf teas available. This pleasant, short book,
+Some time back, someone important to me introduced me to the pleasures of 
+loose leaf tea, of which I've become enamored. This pleasant, short book,
 by a Japanese intellectual for an American audience, discusses the history, 
 rituals, and aesthetics of tea preparation.
 
 This book is likely most interesting to people who are: inclined towards eastern
-mysticism, the poetic aesthics of the Romantic and pastoral poets, and
-tea drinkers.
+mysticism, the aesthics of the Romantic and pastoral poetic traditions, and
+passionate tea drinkers.
 
 > Meanwhile, let us have a sip of tea. The afternoon glow is brightening the 
 bamboos, the fountains are bubbling with delight, the soughing of the pines is
@@ -178,18 +186,19 @@ this sort of book, he gave me I Am a Strange Loop, which he had just finished.
 I'm a total sucker for that sort of happy happenstance, and it made an already
 great book even better. This is a book for the people who think it's really
 interesting what happens when you point a video camera at the television it's
-hooked up to, or two mirrors in front and behind you, such that you see an
+hooked up to, or like experimenting with setting up two mirrors in front and
+behind you, such that you see an
 infinity of reflections, alternating between front and back views. It's
 an attempt at one definition of consciousness, based on self-referential
 patterns.
 
 Written by the author of Godel, Escher, Bach, in many ways this is a sequel,
 20+ years later. It's completely nontechnical, and accessible to anyone with an
-intellectual curiousity into what it means to be concsious.
+intellectual curiousity into what it means to be conscious.
 
 ### Mind And Nature
 Gregory Bateson is perhaps the most thought-provoking writer I've encountered.
-If I was to be stuck on a desert island with just one book, this book could be
+If I was to be stuck on a desert island with a few books, this book could be
 in my top five. He has a knack for making incredibly profound, original
 insights appear obvious and intuitive. The first half of this book should be
 required reading at the high school senior or college freshman level. The
@@ -199,7 +208,7 @@ multiple readings before I'm able to properly summarize it.
 The book starts by taking a series of intuitive observations of the surrounding
 natural world, and developing them into highly original insights. It then
 proposes a definition of mind, and provides a perspective of nature that
-satisfies that definition. It provides both a theory of mind, and a theory of
+satisfies that definition. It provides both an expansive theory of mind, and a theory of
 evolution, that consists of loops across two different levels of abstraction.
 
 His training was in biology, linguistics and anthropology, but his studies
@@ -209,7 +218,7 @@ been intrigued by cybernetics, this would be a good book to check out.
 > A man wanted to know about mind, not in nature, but in his private large computer. He asked it (no doubt in his best Fortran), "Do you compute that you will ever think like a human being?" The machine then set to work to analyze its own computational habits. Finally, the machine printed its answer on a piece of paper, as such machines do. The man ran to get the answer and found, neatly typed, the words:
 >        THAT REMINDS ME OF A STORY
 
-> Prospero says, "We are such stuff as dreams are made on," and surely he is nearly right. It is as if the stuff of which we are made were totally transparent and therefore imperceptible and as if the onlly appearances of which we can be aware are cracks and planes of fracture in that transparent matrix. Dreams and percepts and stories are perhaps cracks and irregularities in the uniform and timeless matrix. Was this what Plotinus meant by an "invisible and unchanging beatury which pervades all things"?
+> Prospero says, "We are such stuff as dreams are made on," and surely he is nearly right. It is as if the stuff of which we are made were totally transparent and therefore imperceptible and as if the only appearances of which we can be aware are cracks and planes of fracture in that transparent matrix. Dreams and percepts and stories are perhaps cracks and irregularities in the uniform and timeless matrix. Was this what Plotinus meant by an "invisible and unchanging beatury which pervades all things"?
 
 
 ### Seveneves
@@ -217,11 +226,11 @@ For Neal Stephenson's entire career, he's been in need of a good editor. He's
 great at setting up a novel, but just can't bring himself to end them. This is
 a fantastic, action-packed imagination of what might happen if humanity has
 just one year before all life on Earth will be destroyed by meteorites
-(loose paraphrase). Structurally, it consists of three separate acts: humanity's
-attempts to escape into space before the catastrophe; life in space; the return
+(loosely summarized). Structurally, it consists of three separate acts: humanity's
+attempts to escape into space before the catastrophe; life in space an eon later; the return
 to earth. The first two acts are both excellent. The third is forgettable.
 
-### Modern China
+### The Search for Modern China, Jonathan Spence
 Last year I read The Three Body Problem, a science fiction book that starts
 during the Cultural Revolution, and mentioned I wanted to learn more about
 Chinese history. A coworker recommended and loaned this book, which was an
@@ -232,7 +241,7 @@ sense of narrative, it was exactly what I was looking for.
 Upon reading the news of his death, I picked up this biography, hoping to learn
 some lessons from one of the 20th century's most accomplished technologists.
 Although well written, I found High Output Management, written by Andy Grove
-himself, far more suited to my aims. 
+himself, far more suited to my aims. Perhaps I just don't enjoy biographies.
 
 ### Exercises in Style, Raymond Queaneau
 Goofy little book of wordplay. The same little scenario played out in many
@@ -243,14 +252,13 @@ creative feat in itself.
 The Iliad covers the siege of Troy, and comes before the Odyssey. Amazingly 
 bloody, but very well written and translated. When I first began reading,
 I wondered why I had read the Odyssey in high school, but not the Iliad.
-Pretty quickly, the sheer quantity of blood, gore and death made the answer
+Pretty quickly, the sheer quantity of blood, gore, and death made the answer
 obvious.
 
 ### Ludwig Wittgenstein: The Duty of Genius
 Gave a great view into the man behind the philosophy. I first read
 Tractatus, then this, and will next attempt Philosophical Investigations.
-I think that's a great way to order these, although Tractatus may be
-skippable.
+That seems like a great way to order these.
 
 ### Technical Leadership, Gerald Weinberg
 A seminar in a book, the questions at the end of each chapter are almost
@@ -260,7 +268,9 @@ software development to logging to knitting.
 
 ### Behind Closed Doors
 Worth reading, but not highly recommended, a book on technical management
-of software development.
+of software development. So far, the most valuable lesson I've taken from
+this book is the importance of avoiding doing work that seems useful,
+but doesn't match the business priorities.
 
 ### MySQL Stored Programs
 You should only read this book if you already know you need it. It was very
