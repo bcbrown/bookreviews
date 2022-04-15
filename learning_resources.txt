@@ -1,0 +1,84 @@
+Programming Foundations
+Code Complete
+A lot of this stuff might seem like obvious common sense, but I found it an invaluable resource for developing my own aesthetic of programming: how to name variables, where to use whitespace, how to decompose into methods, etc. Probably most useful for someone who is just beginning to write code professionally.
+
+Gang of Four Design Patterns
+Dry and perhaps overly academic, I still think this book has value. For one, it spawned a whole sub-class of programming books: Language- or framework-specific design patterns. It provides a higher level abstraction in classifying what groups problems you can attempt to solve with code, and general strategies to solve them. If you've ever worked with Observer, Flywheel, Factory, or Facade concepts, this is where they were first named and formalized. If nothing else, it's useful for creating a common language of patterns. One interesting thing to consider while reading this is how many of the patterns listed are now built-in to modern languages, such as Iterator, for example. There's plenty of newer books that attempt to be a more-accessible introduction to this topic, like Head First Design Patterns, but I still prefer the original source.
+
+One downside of reading a book about design patterns is that it's extremely easy as an intermediate programmer to have an Aha! moment where a design pattern perfectly encapsulates something you're working on, and that you then try to shoehorn as many design patterns as possible into all your programs. But I think that's a necessary stage on the path to mastery.
+
+Refactoring
+There's not a lot that's new or original in here, but it's invaluable as a comprehensive listing of all the tools available to take working code and make it more legible/maintainable/extensible. If you've already internalized this it will be of less value, but like the Design Patterns book, one of the ways it's useful is in providing a common language to discuss refactoring with other developers.
+
+Theory
+
+Discrete Mathematics and Functional Programming
+One of the areas where programming and mathematics intersect is around functional programming and various advanced algebras. There's a lot of parts of programming where this isn't too relevant, but I also think it's an area that's likely to produce future paradigm shifts in programming. For example, the API design of Hadoop and Spark directly follow from the mathematical foundations covered in this book. Similarly with the language designs for Rust and Scala. This book covers, in roughly equal proportions but intermixed, functional programming in ML (the language, not machine learning), and the mathematical topics of groups, rings, relations, lattices, etc. There's plenty of books covering these topics, but this is the one I ended up reading, and I found it ideal for my background.
+
+The main value of covering this topic, for me, is in designing medium-scale systems. It lets me ask myself whether I can model some given problem as a lattice, or partial set, or ring, and if so, helps me figure out how to use the properties of that model to solve my problem.
+
+Distributed Systems, Tanenbaum et al
+There's plenty of textbooks out there about distributed systems, but this is the one I read. It's painfully boring but an excellent primer, and I'm glad I made my way through it. Another book I have is Lynch's Distributed Algorithms, but I haven't spent enough time reading it to render a verdict.
+
+Queueing
+Mor Harchol-Balter, Performance Modeling and Design of Computer Systems
+Leonard Kleinrock, Queueing Systems, Vol 1: Theory
+These are the two books I read to understand queueing theory. Nothing directly applicable, but full of insights that are widely relevant. I first became interested when hearing about one surprising result: If you have a single line, where items are enqueued randomly (poisson process, same process that governs radiation), and the average time to process one item equals the average time before another item is enqueued, the line will grow without bound.
+
+
+Specialty topics:
+
+data intensive text processing with mapreduce
+Fairly short, and only the first third is Hadoop-specific. The rest is CS theory, and still relevant.
+Mining Massive Datasets
+This came out around when Hadoop was first becoming big. It's not about Hadoop or even Map-Reduce, but is instead focused on the CS algorithms useful when working with more data than can fit in memory. 
+Desigining Data-Intensive Applications
+
+Thinking about thinking
+Programming, at its most fundamental, is the artifact that results from thinking deeply and comprehensively about solving some puzzle of logic with some particular constraints and trade-offs. As such I've found it to be worthwhile to spend some time thinking about the process of thinking, and what is going on inside my brain when I'm programming. These books are less specific to programming, and are more general in their approach
+
+Pragmatic Programmer
+It's been a while since I've read this, but I recall it being a window into a new paradigm, and that it was highly influential on how I went about writing programs.
+
+Pragmatic Thinking and Learning
+For the first couple years as a software engineer, I read this every Christmas break. It helped me come up with practices around how efficiently let my brain solve the problems I needed to solve. For example, when I'm stuck on a hard problem, I like to either take a walk around the block or spend a half hour at the art museum, letting my subconcious work out a solution while my conscious mind is preoccupied with something unerelated. 
+
+Systemantics, the Systems Bible, by John Galt
+If there's any book on this list that doesn't fit in with the rest, it's this one. A very idiosyncratic book, it's a collection of anecdotes about widely disparate systems, used to develop laws of the behavior of large systems, deeply imbued with a quirky sense of humor. For example, a fail-safe fails by failing to fail safely: Once a nuclear reactor had to be shut down and decommissioned when an unknown object was discovered in the coolant pool, which turned out to be part of a failsafe system that wasn't documented in the blueprints. Or anecdotes about a electrical power plant that, once turned off, needs external power to restart, making it useless in recovering from a wide-scale blackout.
+
+These types of concerns aren't relevant when building a small system with code to solve a problem, but become more and more relevant the more senior you become. When reviewing an architectural design proposal, you should be thinking about questions like "what happens if one part fails", or "how will we recover from data corruption", or handling other failure modes, and that's when the lessons from this book become more relevant. A useful exercise in any postmortem would be "which law from this book describes the root cause of this incident?".
+
+An Introduction to General Systems Thinking, Gerald Weinberg
+A good companion book to the Systems Bible, this is a rigorous, formal treatment instead of an informal, humorous treatment. I found it via this review: https://neglectedbooks.com/?p=173
+
+Becoming A Technical Leader, Gerald Weinberg
+At heart, this is a book about how to improve at solving technical problems. If one of your career goals is being the person that people turn to when they have a problem they cannot solve, this will be relevant.
+
+Unix stuff
+A superpower you can acquire somewhat-easily is to become an expert at the Unix command line. There's a ton of tasks that sound impossibly time-consuming that can, with the proper shell commands, be solved in a couple minutes. At a minimum, it's good to be familiar with grep, sed, awk, cut.
+
+A fantastic online resource is the Linux Documentation Project, tldp.org. The advanced bash scripting guide, https://tldp.org/LDP/abs/html/index.html, is great as both a thorough tutorial and as a reference source. Learn the basics of pipes, subshells, input/output redirection, process management. Customize your bashrc, write some small aliases and functions. Whenever you need to write a one-off script, first try implementing in a bash script before reaching for Javascript, Python, Ruby, or Perl.
+
+The AWK Programming Language
+Awk is the perfect swiss army knife for the command line, powerful yet lightweight. By default it operates on a text stream line-by-line, tokenizing each line on whitespace. You can provide a regex to only process matching lines, turning it into a more powerful grep. You can manipulate matching lines by reordering or omitting fields, making it a more powerful cut. You have access to data structures like dictionaries, making it a lightweight Python for quick one-off tasks.
+
+The Unix Haters Handbook
+Back in the 60s, 70s, 80s, Unix was just one of multiple competing computing paradigms, although in the end it won out and, via Linux and BSD, now underpins every non-Windows device out there. This book is a rant from denizens of those other ecosystems who eventually, grudgingly, were forced to use Unix as it became the dominant platform. Nothing in this will be directly applicable to modern programming and systems administration, and a lot of the topics covered are long-since obsolete. The value to reading this is historical, anthropological, and archeological. Understanding the objections and critiques from members of other computing camps is helpful for understanding the environment and constraints which guided the evolution of operating systems. 
+
+It's useful to have a historical perspective, especially since most software professionals likely have no personal experience with computer systems prior to the 2000s or perhaps the 1990s. Reading this won't magically make you able to solve problems others cannot (unlike the AWK book described above), but it will give you a perspective no one else has.
+https://web.mit.edu/~simsong/www/ugh.pdf
+
+Distributed Systems
+
+Jepsen
+The Jepsen project, by Kyle (Aphyr) Kingsbury, is a great place to learn about the pitfalls of distributed data systems. He wrote a test suite to discover real-world data-loss in various distributed databases, with good writeups of the results for a ton of popular systems. He also wrote some tutorials that taught me a lot:
+https://aphyr.com/posts/288-the-network-is-reliable
+https://aphyr.com/posts/313-strong-consistency-models
+https://aphyr.com/posts/333-serializability-linearizability-and-locality
+It looks like now they've been rewritten now, but I haven't reviewed the new format: https://jepsen.io/consistency
+
+Here's a couple more things that are worth internalizing:
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+
+
