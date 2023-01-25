@@ -80,5 +80,4 @@ It looks like now they've been rewritten now, but I haven't reviewed the new for
 Here's a couple more things that are worth internalizing:
 https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
-
-
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
